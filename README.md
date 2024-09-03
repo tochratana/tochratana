@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋!, My name is Toch Ratana and I'm from Cambodai</h1>
+<h1 align="center">Hello 👋!, My name is Toch Ratana and I'm from Cambodia</h1>
 
 - 🔭 I’m currently study about web frontend
 
